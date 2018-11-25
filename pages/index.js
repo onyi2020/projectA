@@ -1,1 +1,1 @@
-export default () => <div>Welcome to next.js!</div>
+export default () => <div>I'm not happy with your improperly documrnted process.</div>
